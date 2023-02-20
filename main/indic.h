@@ -1,0 +1,1 @@
+void indic(int n);
